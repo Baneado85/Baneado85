@@ -65,7 +65,3 @@ My long-term goal is to build financial independence through technology and digi
 ## ⚡ Motto
 > *“Discipline, consistency, and vision build extraordinary results.”*
 
----
-## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Baneado85&theme=dark)](https://git.io/streak-stats)
-
