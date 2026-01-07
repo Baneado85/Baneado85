@@ -1,4 +1,4 @@
-![image alt](https://github.com/Baneado85/Baneado85/blob/main/banner%20Walter.jpeg?raw=true)
+![image alt]()
 
 # 👋 Hey, I'm Walter Navarro
 
