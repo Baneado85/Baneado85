@@ -1,7 +1,6 @@
-# 👋 Hey, I'm Walter Navarro
-
 ![image alt](https://github.com/Baneado85/Baneado85/blob/main/banner%20Walter.jpeg?raw=true)
 
+# 👋 Hey, I'm Walter Navarro
 
 🎓 Informatic Engineering student at PUCP  
 🚀 Tech, Data & Blockchain enthusiast  
