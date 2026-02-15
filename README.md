@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Walter Navarro
 
 🎓 Informatic Engineering student at PUCP  
-🚀 Tech, Data & Blockchain enthusiast  
+🚀 Tech, Data, IA & Blockchain enthusiast  
 📍 Lima, Peru
 
 I’m a motivated Informatic Engineering student with a strong interest in software development, data analysis, and emerging technologies like blockchain. I enjoy building efficient solutions, working with programming, and constantly improving my technical and personal skills.
@@ -12,28 +12,38 @@ My long-term goal is to build financial independence through technology and digi
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 💻 Passionate about programming & problem-solving  
-- 📊 Interested in Data Analysis & Analytics  
+- 📊 Interested in Data Analysis, Analytics & IA  
 - 🔗 Actively involved in Blockchain communities  
 - 🌱 Constantly learning and improving  
 - 🧭 Leadership mindset & team-oriented  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming Languages
+###  Programming Languages
 - **C** – Advanced (pointers, dynamic memory, stacks, linked lists, generic structures)
 - **C++** – Advanced (pointers, dynamic memory, stacks, linked lists, generic structures, POO)
 - **Python** – Intermediate (data analysis, scripting)
 - **Java** – Basic
 - **Solidity** – Basic
-- **Powe BI** - Basic
-- **SQL** – Basic
+- **Powe BI** - Intermediate
+- **SQL** – Intermediate
 
-### 📚 Concepts & Tools
+###  Data Modeling
+- LucidChart
+- Drawio
+
+###  Web Design and Development
+- HTML
+- CSS
+- Balsamiq
+- Figma
+
+###  Concepts & Tools
 - Data Structures & Algorithms  
 - Dynamic memory management  
 - CSV data processing  
@@ -42,14 +52,14 @@ My long-term goal is to build financial independence through technology and digi
 
 ---
 
-## 🌐 Languages
+##  Languages
 - **Spanish** – Native  
 - **English** – Advanced  
 - **Chino Mandarin** – Basic
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 - Strengthening **C/C++ and Python**
 - Expanding knowledge in **Data Analysis**
 - Exploring **Blockchain & Web3**
@@ -60,10 +70,10 @@ My long-term goal is to build financial independence through technology and digi
 ## 📫 Let’s Connect
 - 💼 LinkedIn: *www.linkedin.com/in/walter-junior-navarro-collao-370136280*
 - 📧 Email: *walterjr2812@gmail.com*
-- 🌐 GitHub: You’re already here 😉
+- 🌐 GitHub: You’re already here
 
 ---
 
-## ⚡ Motto
+##  Motto
 > *“Discipline, consistency, and vision build extraordinary results.”*
 
